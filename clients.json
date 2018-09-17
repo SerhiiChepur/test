@@ -1,0 +1,24 @@
+{
+	users:[
+		{
+			"userId":1,
+			"userName": "John",
+			"userLastName": "Bush"
+		},
+		{
+			"userId":2,
+			"userName": "Vallery",
+			"userLastName": "Bush"
+		},
+		{
+			"userId":3,
+			"userName": "Izrael",
+			"userLastName": "Bush"
+		},
+		{
+			"userId":4,
+			"userName": "Vadim",
+			"userLastName": "Bush"
+		}
+	]
+}
